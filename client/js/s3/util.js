@@ -44,6 +44,7 @@ qq.s3.util = qq.s3.util || (function() {
             "Content-Disposition",
             "Content-Encoding",
             "Content-MD5",
+            "x-amz-security-token",
             "x-amz-server-side-encryption",
             "x-amz-server-side-encryption-aws-kms-key-id",
             "x-amz-server-side-encryption-customer-algorithm",
